@@ -5,11 +5,7 @@
 
 - 📚 I’m currently studying at **Pontificia Universidad Católica de Valparaíso**, Chile
 
-- 👯 I’m looking to collaborate with... **you :)**
-
-- 🌱 I’m currently learning **Machine Learning with Python**
-
-- ⚡ I'm also learning some robotics, me and arduino against the world.
+- 🌱 I’m currently learning **Machine Learning and LLMs**
 
 --- 
 
