@@ -26,6 +26,5 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagamu&theme=tokyonight" alt="dagamu" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagamu&layout=compact&theme=tokyonight" alt="dagamu" /></p>
 
